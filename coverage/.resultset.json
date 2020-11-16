@@ -1,0 +1,130 @@
+{
+  "Minitest": {
+    "coverage": {
+      "/Users/bayramkuliyev/Projects/GithubActions/blog/app/models/article.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/bayramkuliyev/Projects/GithubActions/blog/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/bayramkuliyev/Projects/GithubActions/blog/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          0,
+          null,
+          0,
+          0,
+          null,
+          0,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          1,
+          0,
+          null,
+          null
+        ]
+      },
+      "/Users/bayramkuliyev/Projects/GithubActions/blog/app/helpers/application_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/bayramkuliyev/Projects/GithubActions/blog/app/helpers/articles_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/bayramkuliyev/Projects/GithubActions/blog/app/helpers/welcome_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/bayramkuliyev/Projects/GithubActions/blog/app/controllers/welcome_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/bayramkuliyev/Projects/GithubActions/blog/app/controllers/articles_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/bayramkuliyev/Projects/GithubActions/blog/app/mailers/application_mailer.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/bayramkuliyev/Projects/GithubActions/blog/app/jobs/application_job.rb": {
+        "lines": [
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/bayramkuliyev/Projects/GithubActions/blog/app/channels/application_cable/connection.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/bayramkuliyev/Projects/GithubActions/blog/app/channels/application_cable/channel.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      }
+    },
+    "timestamp": 1605524222
+  }
+}
